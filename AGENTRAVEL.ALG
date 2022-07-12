@@ -14,7 +14,6 @@ Var
    crn, drn: inteiro
 
 Inicio
-
    menu_clientes[1] <- "Número de registro de clientes: "
    menu_clientes[2] <- "Nome completo: "
    menu_clientes[3] <- "Data de nascimento: "
